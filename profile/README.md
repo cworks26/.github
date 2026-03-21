@@ -1,4 +1,4 @@
-# CodeHub [From The Runner Team]
+# CodeHub
 
 ## What to expect
 
