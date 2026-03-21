@@ -1,6 +1,6 @@
-# CodeHub
+# CodeHub [From The Runner Team]
 
-## About Us
+## What to expect
 
 Expect experiments, fun projects, and collaborative ideas from the **CodeHub** team.
 
@@ -47,6 +47,8 @@ Expect experiments, fun projects, and collaborative ideas from the **CodeHub** t
 
 We are currently building our **group website**.
 
+Along with personal projects we shall share soon.
+
 <!--  In the future, we plan to work on a **2D game**, developed in either **Python** or **Java**. -->
 
 ## Tech Stack 
@@ -69,8 +71,9 @@ We use the following technologies:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" style="margin-right: 15px;"/>
   </a>
-
+  <!--
   <a href="https://getbootstrap.com/docs/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
   </a>
+  -->
 </p>
