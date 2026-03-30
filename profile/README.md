@@ -1,59 +1,81 @@
-# CodeHub
+# CodeHub 
 
-## What to expect
+Welcome to **CodeHub** — The collaborative team of developers designing and building your modern digital experiences.
 
-Expect experiments, fun projects, and collaborative ideas from the **CodeHub** team.
+---
+<!--
+## About Us
+
+We are a group of developers passionate about:
+- Building practical and impactful projects
+- Learning modern technologies
+- Growing together through collaboration
+
+CodeHub is where ideas turn into real, usable solutions.
+
+---
+ 
+## 🌐 Our Website
+
+Check out our official site:  
+👉 https://the-runner-team.github.io/website/
+
+---
+-->
+
+## Team
 
 <p>
   <a href="https://github.com/FrostyDot512" target="_blank">
-    <img src="https://avatars.githubusercontent.com/FrostyDot512?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" alt="FrostyDot512"/>
+    <img src="https://avatars.githubusercontent.com/FrostyDot512?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
   </a>
-
   <a href="https://github.com/Otwiine" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Otwiine?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" alt="Otwiine"/>
+    <img src="https://avatars.githubusercontent.com/Otwiine?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
   </a>
-
   <a href="https://github.com/MOSES-LEO-tech" target="_blank">
-    <img src="https://avatars.githubusercontent.com/MOSES-LEO-tech?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" alt="MOSES-LEO-tech"/>
+    <img src="https://avatars.githubusercontent.com/MOSES-LEO-tech?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
   </a>
-
   <a href="https://github.com/GrandMaster142" target="_blank">
-    <img src="https://avatars.githubusercontent.com/GrandMaster142?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" alt="GrandMaster142"/>
+    <img src="https://avatars.githubusercontent.com/GrandMaster142?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
   </a>
-
   <a href="https://github.com/Trojannetwork" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Trojannetwork?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" alt="Trojannetwork"/>
+    <img src="https://avatars.githubusercontent.com/Trojannetwork?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
   </a>
-
   <a href="https://github.com/eliosha" target="_blank">
-    <img src="https://avatars.githubusercontent.com/eliosha?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" alt="eliosha"/>
+    <img src="https://avatars.githubusercontent.com/eliosha?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
   </a>
-
   <a href="https://github.com/mattyy432" target="_blank">
-    <img src="https://avatars.githubusercontent.com/mattyy432?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" alt="mattyy432"/>
+    <img src="https://avatars.githubusercontent.com/mattyy432?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
   </a>
-
   <a href="https://github.com/Mrj-1007" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Mrj-1007?v=4&size=80" width="80" height="80" style="border-radius:50%;" alt="Mrj-1007"/>
+    <img src="https://avatars.githubusercontent.com/Mrj-1007?v=4&size=80" width="80" height="80" style="border-radius:50%;" />
   </a>
 </p>
-</p>
 
-<p>
-  <sub>Click a profile picture to visit their GitHub</sub>
-</p>
+<p><sub>Click a profile picture to visit their GitHub</sub></p>
 
-## Currently Working On  
+---
 
-We are currently building our **group website**.
+## What We Offer
 
-Along with personal projects we shall share soon.
+At **CodeHub**, we provide:
 
-<!--  In the future, we plan to work on a **2D game**, developed in either **Python** or **Java**. -->
+- **Web Development**  
+  Clean, responsive, and modern websites built with HTML, CSS, and JavaScript.
 
-## Tech Stack 
+- **UI/UX Design**  
+  Simple, user-friendly interfaces focused on usability and experience.
 
-We use the following technologies:
+- **Graphics Design**  
+  Creative designs for branding, visuals, and digital content.
+
+---
+
+We focus on delivering practical, high-quality solutions that meet client needs and leave every customer satisfied.
+
+---
+<!--
+## 🛠️ Tech Stack
 
 <p>
   <a href="https://docs.python.org/3/" target="_blank">
@@ -69,11 +91,15 @@ We use the following technologies:
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" style="margin-right: 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
   </a>
-  <!--
-  <a href="https://getbootstrap.com/docs/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="55"/>
-  </a>
-  -->
 </p>
+
+---
+
+## 🌱 Our Goal
+
+To grow as developers by building consistently, learning together, and turning ideas into real projects.
+
+> Small steps. Real progress.
+-->
