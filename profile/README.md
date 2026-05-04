@@ -3,7 +3,7 @@
 Cworks is a modern digital team focused on building clean, functional, and impactful digital experiences.
 
 We design, develop, and deliver solutions that don’t just work — they perform reliably, communicate clearly, and leave a lasting impression.
-
+<!-- Designing & building modern digital experiences -->
 ---
 
 ## What We Do
