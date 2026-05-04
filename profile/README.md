@@ -1,105 +1,75 @@
-# CodeHub 
+# Cworks
 
-Welcome to **CodeHub** — The collaborative team of developers designing and building your modern digital experiences.
+Cworks is a modern digital team focused on building clean, functional, and impactful digital experiences.
 
----
-<!--
-## About Us
-
-We are a group of developers passionate about:
-- Building practical and impactful projects
-- Learning modern technologies
-- Growing together through collaboration
-
-CodeHub is where ideas turn into real, usable solutions.
+We design, develop, and deliver solutions that don’t just work — they perform reliably, communicate clearly, and leave a lasting impression.
 
 ---
- 
-## 🌐 Our Website
 
-Check out our official site:  
-👉 https://the-runner-team.github.io/website/
+## What We Do
+
+At Cworks, we focus on practical, high-quality digital solutions:
+
+### Web Development
+Fast, responsive, and scalable websites built with modern technologies.  
+We prioritize performance, structure, and clean code.
+
+### UI/UX Design
+User-focused design that is simple, intuitive, and effective.  
+We create experiences that are easy to use and aligned with real user needs.
+
+### Graphics Design
+Visual content that strengthens brand identity and communication.  
+From digital assets to branding elements, we keep it clean and purposeful.
 
 ---
--->
+
+## Our Work
+
+Explore what we’re building: [Cworks](https://the-runner-team.github.io/website/)
+
+We are actively improving our platform and expanding our portfolio.
+
+---
+
+## Our Approach
+
+We don’t just build, we think.
+
+- Clarity over complexity  
+- Functionality over noise  
+- Solutions that solve real problems  
+
+Every project is built with intention, attention to detail, and the goal of leaving the client satisfied.
+
+---
 
 ## Team
 
-<p>
-  <a href="https://github.com/FrostyDot512" target="_blank">
-    <img src="https://avatars.githubusercontent.com/FrostyDot512?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
-  </a>
-  <a href="https://github.com/Otwiine" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Otwiine?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
-  </a>
-  <a href="https://github.com/MOSES-LEO-tech" target="_blank">
-    <img src="https://avatars.githubusercontent.com/MOSES-LEO-tech?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
-  </a>
-  <a href="https://github.com/GrandMaster142" target="_blank">
-    <img src="https://avatars.githubusercontent.com/GrandMaster142?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
-  </a>
-  <a href="https://github.com/Trojannetwork" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Trojannetwork?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
-  </a>
-  <a href="https://github.com/eliosha" target="_blank">
-    <img src="https://avatars.githubusercontent.com/eliosha?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
-  </a>
-  <a href="https://github.com/mattyy432" target="_blank">
-    <img src="https://avatars.githubusercontent.com/mattyy432?v=4&size=80" width="80" height="80" style="border-radius:50%; margin-right:10px;" />
-  </a>
-  <a href="https://github.com/Mrj-1007" target="_blank">
-    <img src="https://avatars.githubusercontent.com/Mrj-1007?v=4&size=80" width="80" height="80" style="border-radius:50%;" />
-  </a>
+<p align="left">
+  <a href="https://github.com/FrostyDot512"><img src="https://avatars.githubusercontent.com/FrostyDot512?v=4&size=80" width="80" /></a>
+  <a href="https://github.com/Otwiine"><img src="https://avatars.githubusercontent.com/Otwiine?v=4&size=80" width="80" /></a>
+  <a href="https://github.com/MOSES-LEO-tech"><img src="https://avatars.githubusercontent.com/MOSES-LEO-tech?v=4&size=80" width="80" /></a>
+  <a href="https://github.com/GrandMaster142"><img src="https://avatars.githubusercontent.com/GrandMaster142?v=4&size=80" width="80" /></a>
+  <a href="https://github.com/Trojannetwork"><img src="https://avatars.githubusercontent.com/Trojannetwork?v=4&size=80" width="80" /></a>
+  <a href="https://github.com/eliosha"><img src="https://avatars.githubusercontent.com/eliosha?v=4&size=80" width="80" /></a>
+  <a href="https://github.com/mattyy432"><img src="https://avatars.githubusercontent.com/mattyy432?v=4&size=80" width="80" /></a>
+  <a href="https://github.com/Mrj-1007"><img src="https://avatars.githubusercontent.com/Mrj-1007?v=4&size=80" width="80" /></a>
 </p>
 
 <p><sub>Click a profile picture to visit their GitHub</sub></p>
 
 ---
 
-## What We Offer
+## Status
 
-At **CodeHub**, we provide:
-
-- **Web Development**  
-  Clean, responsive, and modern websites built with HTML, CSS, and JavaScript.
-
-- **UI/UX Design**  
-  Simple, user-friendly interfaces focused on usability and experience.
-
-- **Graphics Design**  
-  Creative designs for branding, visuals, and digital content.
+Actively developing and improving.  
+We are continuously refining our work, expanding our skills, and taking on new challenges.
 
 ---
 
-We focus on delivering practical, high-quality solutions that meet client needs and leave every customer satisfied.
+## Work With Us
 
----
-<!--
-## 🛠️ Tech Stack
+Have an idea or project?
 
-<p>
-  <a href="https://docs.python.org/3/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" style="margin-right: 15px;"/>
-  </a>
-
-  <a href="https://docs.oracle.com/en/java/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" style="margin-right: 15px;"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" style="margin-right: 15px;"/>
-  </a>
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55"/>
-  </a>
-</p>
-
----
-
-## 🌱 Our Goal
-
-To grow as developers by building consistently, learning together, and turning ideas into real projects.
-
-> Small steps. Real progress.
--->
+Let’s build something solid.
